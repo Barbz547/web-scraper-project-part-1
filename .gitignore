@@ -1,0 +1,5 @@
+.env
+.vscode
+database.db
+venv
+migrations
